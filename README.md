@@ -69,10 +69,6 @@ GitHub: [@parhampvy](https://github.com/parhampvy)
   <img src="https://skillicons.dev/icons?i=linux,bash" />
 </p>
 
-### 🗄️ Database & Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=django,postgresql" />
-</p>
 
 ### 🧰 Tools
 <p>
