@@ -1,37 +1,64 @@
-Hi, I'm Parham 👋
+# Hi 👋, I'm Parham
 
-💻 Computer Engineering Student
-🐧 Linux & DevOps Enthusiast
-🌐 Networking & Cybersecurity
-🚀 Currently learning DevOps
+### 💻 Computer Engineering Student | Linux & DevOps Learner 🚀
 
-## 🛠️ Skills
+---
 
-Linux        ███████░░░
-Git          ██████░░░░
-Python       █████░░░░░
-Docker       ████░░░░░░
-Networking   ██████░░░░
+## 👨‍💻 About Me
 
-## 🚀 Projects
+- 🎓 Computer Engineering Student
+- 🐧 Learning Linux & System Administration
+- 🌐 Interested in Networking & Cyber Security
+- 🚀 Currently working toward becoming a DevOps Engineer
+- 🐍 Learning Python
+- 📚 Always learning and building new projects
 
-🔹 Linux Server Lab
-🔹 Dockerized Web Application
-🔹 CI/CD Pipeline with GitHub Actions
-🔹 Network Monitoring System
-🔹 Infrastructure Automation
+---
+
+## 🛠️ Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
 
 ## 📚 Currently Learning
 
-- Linux / LPIC-1
-- Docker
-- Kubernetes
-- CI/CD
-- Terraform
-- Ansible
-- Cloud
+- 🐧 Linux
+- 🌐 Networking
+- 🔐 Cyber Security
+- 🐳 Docker
+- 🔄 CI/CD
+- ☁️ DevOps
 
-## 📫 Contact
+---
 
-GitHub: ...
-LinkedIn: ...
+## 🚀 My Goal
+
+> Become a professional DevOps Engineer with strong Linux, Networking and Security skills.
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=parhampvy&show_icons=true&theme=tokyonight)
+
+---
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=parhampvy&theme=tokyonight)
+
+---
+
+## 💻 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=parhampvy&layout=compact&theme=tokyonight)
+
+---
+
+## 📫 Connect With Me
+
+GitHub: [@parhampvy](https://github.com/parhampvy)
