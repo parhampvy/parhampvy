@@ -41,12 +41,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=parhampvy&show_icons=true&theme=tokyonight)
-
----
-
 ## 🔥 GitHub Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=parhampvy&theme=tokyonight)
@@ -62,3 +56,30 @@
 ## 📫 Connect With Me
 
 GitHub: [@parhampvy](https://github.com/parhampvy)
+
+## 🛠️ Tech Stack
+
+### 👨‍💻 Programming
+<p>
+  <img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+### 🐧 Linux & DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,docker,git,github,bash" />
+</p>
+
+### 🌐 Networking & Security
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,bash" />
+</p>
+
+### 🗄️ Database & Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=django,postgresql" />
+</p>
+
+### 🧰 Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,github" />
+</p>
