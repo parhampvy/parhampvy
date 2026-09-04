@@ -41,11 +41,6 @@
 
 ---
 
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=parhampvy&theme=tokyonight)
-
----
 
 ## 💻 Most Used Languages
 
