@@ -1,76 +1,109 @@
-# Hi 👋, I'm Parham
+# 👋 Hi, I'm Parham
 
-### 💻 Computer Engineering Student | Linux & DevOps Learner 🚀
+### 💻 Computer Engineering Student | Linux & DevOps Learner
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=parhampvy&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 Computer Engineering Student
-- 🐧 Learning Linux & System Administration
-- 🌐 Interested in Networking & Cyber Security
-- 🚀 Currently working toward becoming a DevOps Engineer
-- 🐍 Learning Python
-- 📚 Always learning and building new projects
+* 🎓 Computer Engineering Student
+* 🐧 Learning Linux & System Administration
+* 🌐 Interested in Networking
+* 🔐 Interested in Cyber Security
+* 🚀 Working toward becoming a DevOps Engineer
+* 🐍 Learning Python
+* 📚 Building projects and documenting my learning journey
 
 ---
 
 ## 🛠️ Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+### Programming
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,bash" />
+</p>
+
+### Linux & DevOps
+
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,git,github,docker" />
+</p>
+
+### Networking & Security
+
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,bash" />
+</p>
 
 ---
 
 ## 📚 Currently Learning
 
-- 🐧 Linux
-- 🌐 Networking
-- 🔐 Cyber Security
-- 🐳 Docker
-- 🔄 CI/CD
-- ☁️ DevOps
+```text
+Linux
+Networking
+Git & GitHub
+Python
+Docker
+CI/CD
+DevOps
+```
 
 ---
 
-## 🚀 My Goal
+## 🚀 Featured Projects
 
-> Become a professional DevOps Engineer with strong Linux, Networking and Security skills.
+| Project            | Description                                    |
+| ------------------ | ---------------------------------------------- |
+| 🐍 Python Projects | Python practice and applications               |
+| 🐧 Linux Lab       | Linux administration and command-line practice |
+| 🌐 Networking Lab  | Networking experiments and documentation       |
+| 🐳 DevOps Lab      | Docker, CI/CD and deployment projects          |
 
 ---
 
+## 🎯 Learning Roadmap
 
-## 💻 Most Used Languages
+* [x] Python fundamentals
+* [ ] Linux administration
+* [ ] Git & GitHub
+* [ ] Networking
+* [ ] Docker
+* [ ] CI/CD
+* [ ] Cloud
+* [ ] DevOps projects
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=parhampvy&layout=compact&theme=tokyonight)
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=parhampvy&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=parhampvy&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parhampvy&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
 ## 📫 Connect With Me
 
-GitHub: [@parhampvy](https://github.com/parhampvy)
-
-## 🛠️ Tech Stack
-
-### 👨‍💻 Programming
-<p>
-  <img src="https://skillicons.dev/icons?i=python" />
+<p align="left">
+  <a href="https://github.com/parhampvy">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
-### 🐧 Linux & DevOps
-<p>
-  <img src="https://skillicons.dev/icons?i=linux,docker,git,github,bash" />
-</p>
+---
 
-### 🌐 Networking & Security
-<p>
-  <img src="https://skillicons.dev/icons?i=linux,bash" />
-</p>
-
-
-### 🧰 Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=vscode,github" />
-</p>
+### 🚀 Keep Learning. Keep Building. Keep Shipping.
